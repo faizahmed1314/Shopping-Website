@@ -1,0 +1,6 @@
+E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\bin\Debug\Repository.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\bin\Debug\Repository.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\obj\Debug\Repository.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\obj\Debug\Repository.pdb

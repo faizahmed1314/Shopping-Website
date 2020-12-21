@@ -1,0 +1,16 @@
+E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\bin\Debug\ApplicationCore.dll.config
+E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\bin\Debug\ApplicationCore.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\bin\Debug\ApplicationCore.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\bin\Debug\DomainModels.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\bin\Debug\EntityFramework.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\bin\Debug\EntityFramework.SqlServer.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\bin\Debug\DomainModels.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\bin\Debug\EntityFramework.xml
+E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\bin\Debug\EntityFramework.SqlServer.xml
+E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\obj\Debug\ApplicationCore.csprojAssemblyReference.cache
+E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\obj\Debug\ApplicationCore.csproj.CoreCompileInputs.cache
+E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\obj\Debug\ApplicationCore.csproj.CopyComplete
+E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\obj\Debug\ApplicationCore.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\obj\Debug\ApplicationCore.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\obj\Debug\ApplicationCore.Migrations.initial.resources
+E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\obj\Debug\ApplicationCore.csproj.GenerateResource.cache

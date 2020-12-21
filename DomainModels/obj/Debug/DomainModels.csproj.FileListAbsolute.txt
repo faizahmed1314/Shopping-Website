@@ -1,0 +1,6 @@
+E:\Faiz\Asp.net projects\MvcAngulerProject\DomainModels\bin\Debug\DomainModels.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\DomainModels\bin\Debug\DomainModels.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\DomainModels\obj\Debug\DomainModels.csprojAssemblyReference.cache
+E:\Faiz\Asp.net projects\MvcAngulerProject\DomainModels\obj\Debug\DomainModels.csproj.CoreCompileInputs.cache
+E:\Faiz\Asp.net projects\MvcAngulerProject\DomainModels\obj\Debug\DomainModels.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\DomainModels\obj\Debug\DomainModels.pdb
