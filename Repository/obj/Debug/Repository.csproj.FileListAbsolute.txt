@@ -4,3 +4,14 @@ E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\obj\Debug\Repository.cspro
 E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
 E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\obj\Debug\Repository.dll
 E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\obj\Debug\Repository.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\bin\Debug\Repository.dll.config
+E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\bin\Debug\ApplicationCore.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\bin\Debug\DomainModels.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\bin\Debug\EntityFramework.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\bin\Debug\ApplicationCore.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\bin\Debug\ApplicationCore.dll.config
+E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\bin\Debug\DomainModels.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\bin\Debug\EntityFramework.xml
+E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Faiz\Asp.net projects\MvcAngulerProject\Repository\obj\Debug\Repository.csproj.CopyComplete

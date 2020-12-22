@@ -47,3 +47,15 @@ E:\Faiz\Asp.net projects\MvcAngulerProject\UI\obj\Debug\UI.csproj.CoreCompileInp
 E:\Faiz\Asp.net projects\MvcAngulerProject\UI\obj\Debug\UI.csproj.CopyComplete
 E:\Faiz\Asp.net projects\MvcAngulerProject\UI\obj\Debug\UI.dll
 E:\Faiz\Asp.net projects\MvcAngulerProject\UI\obj\Debug\UI.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\DomainModels.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\Repository.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\ApplicationCore.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\EntityFramework.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\DomainModels.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\Repository.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\Repository.dll.config
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\ApplicationCore.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\ApplicationCore.dll.config
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\EntityFramework.xml
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\EntityFramework.SqlServer.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\EntityFramework.SqlServer.xml
