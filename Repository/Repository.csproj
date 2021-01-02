@@ -50,7 +50,6 @@
   <ItemGroup>
     <Compile Include="Abstruction\IAuthenticationRepository.cs" />
     <Compile Include="Abstruction\IRepository.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Implementation\AuthenticationRepository.cs" />
     <Compile Include="Implementation\Repository.cs" />
     <Compile Include="IUnitOfWork.cs" />

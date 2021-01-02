@@ -42,3 +42,15 @@ E:\Faiz\Asp.net projects\MvcAngulerProject\Service\obj\Debug\Service.csproj.Core
 E:\Faiz\Asp.net projects\MvcAngulerProject\Service\obj\Debug\Service.csproj.CopyComplete
 E:\Faiz\Asp.net projects\MvcAngulerProject\Service\obj\Debug\Service.dll
 E:\Faiz\Asp.net projects\MvcAngulerProject\Service\obj\Debug\Service.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\Service\bin\DomainModels.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\Service\bin\EntityFramework.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\Service\bin\EntityFramework.SqlServer.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\Service\bin\Repository.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\Service\bin\ApplicationCore.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\Service\bin\DomainModels.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\Service\bin\Repository.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\Service\bin\Repository.dll.config
+E:\Faiz\Asp.net projects\MvcAngulerProject\Service\bin\EntityFramework.xml
+E:\Faiz\Asp.net projects\MvcAngulerProject\Service\bin\EntityFramework.SqlServer.xml
+E:\Faiz\Asp.net projects\MvcAngulerProject\Service\bin\ApplicationCore.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\Service\bin\ApplicationCore.dll.config

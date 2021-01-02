@@ -21,6 +21,21 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
+                    <li>
+                        @Html.ActionLink("Categories", "Index", "Category")
+
+                    </li>
+                    <li>
+                        @Html.ActionLink("Products", "Index", "Product")
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav pull-right">
+                    <li style="padding:15px; color: #fff;">
+                        Welcome: @CurrentUser?.Name
+                    </li>
+                    <li>
+                        @Html.ActionLink("SignOut", "SignOut", "Account", new { area = "" }, null)
+                    </li>
                 </ul>
             </div>
         </div>

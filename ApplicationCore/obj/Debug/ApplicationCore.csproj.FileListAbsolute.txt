@@ -14,3 +14,4 @@ E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\obj\Debug\Application
 E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\obj\Debug\ApplicationCore.pdb
 E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\obj\Debug\ApplicationCore.Migrations.initial.resources
 E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\obj\Debug\ApplicationCore.csproj.GenerateResource.cache
+E:\Faiz\Asp.net projects\MvcAngulerProject\ApplicationCore\obj\Debug\ApplicationCore.Migrations.Product__UnitPrice__Added.resources

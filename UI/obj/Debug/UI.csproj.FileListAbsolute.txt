@@ -59,3 +59,17 @@ E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\ApplicationCore.dll.config
 E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\EntityFramework.xml
 E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\EntityFramework.SqlServer.dll
 E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\EntityFramework.SqlServer.xml
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\Newtonsoft.Json.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\Newtonsoft.Json.xml
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\System.Threading.Tasks.Extensions.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\Unity.Abstractions.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\Unity.Container.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\Unity.Mvc.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\WebActivatorEx.dll
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\System.Threading.Tasks.Extensions.xml
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\Unity.Abstractions.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\Unity.Container.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\Unity.Mvc.pdb
+E:\Faiz\Asp.net projects\MvcAngulerProject\UI\bin\Unity.Mvc.xml

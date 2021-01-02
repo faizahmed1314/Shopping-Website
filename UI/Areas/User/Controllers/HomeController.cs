@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace UI.Areas.User.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
         // GET: User/Home
         public ActionResult Index()

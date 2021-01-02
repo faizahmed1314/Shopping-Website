@@ -23,8 +23,8 @@ namespace DomainModels.Entities
         [StringLength(50)]
         public string Name { get; set; }
 
-        
 
+        public decimal UnitPrice { get; set; }
         [Column(TypeName = "varchar")]
         [StringLength(250)]
         public string Description { get; set; }

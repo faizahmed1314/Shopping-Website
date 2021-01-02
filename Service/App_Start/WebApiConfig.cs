@@ -10,6 +10,20 @@ namespace Service
         public static void Register(HttpConfiguration config)
         {
             // Web API configuration and services
+            // Remove xml formatter
+
+            GlobalConfiguration
+                .Configuration
+                .Formatters
+                .Remove(GlobalConfiguration.Configuration.Formatters.XmlFormatter);
+
+            // Handle the cycle of product and category
+
+            GlobalConfiguration.Configuration
+                .Formatters
+                .JsonFormatter
+                .SerializerSettings
+                .ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
 
             // Web API routes
             config.MapHttpAttributeRoutes();
