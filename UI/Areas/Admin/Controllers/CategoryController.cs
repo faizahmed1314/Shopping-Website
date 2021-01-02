@@ -46,5 +46,50 @@ namespace UI.Areas.Admin.Controllers
             
         }
 
+        public ActionResult Edit(int id)
+        {
+            try
+            {
+                var category = _uow.CategoryRepository.GetById(id);
+                return View(category);
+            }
+            catch (Exception ex)
+            {
+                return View();
+               
+            }
+        }
+        [HttpPost]
+        public ActionResult Edit(Category model)
+        {
+            try
+            {
+                model.UpdateDate = DateTime.Now;
+               _uow.CategoryRepository.Update(model);
+                _uow.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            catch (Exception ex)
+            {
+                return View();
+
+            }
+        }
+
+        public ActionResult Delete(int id)
+        {
+            try
+            {
+                
+                _uow.CategoryRepository.DeleteById(id);
+                return RedirectToAction("Index");
+            }
+            catch (Exception ex)
+            {
+
+                return View();
+            }
+        }
+
     }
 }

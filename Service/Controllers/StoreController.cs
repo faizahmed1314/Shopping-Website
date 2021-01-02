@@ -12,6 +12,7 @@ namespace Service.Controllers
     public class StoreController : ApiController
     {
         IUnitOfWork _uow = new UnitOfWork();
+
         [HttpGet]
         public IEnumerable<Product> GetProducts()
         {
